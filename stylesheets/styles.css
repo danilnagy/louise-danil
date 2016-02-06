@@ -20,6 +20,11 @@ h1, h2, h3, h4, h5, h6 {
   /*margin:0 0 20px;*/
 }
 
+h1, h2, h4 {
+  color:#222;
+  text-align: center;
+}
+
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
@@ -28,7 +33,6 @@ h1 {
   line-height:1.1;
   font-size:48px;    
   font-weight: 200;
-  text-align: center;
   margin:0 0 20px;
 }
 
