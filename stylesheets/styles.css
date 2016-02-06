@@ -24,18 +24,23 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-h1, h2, h3 {
-  line-height:1.1;
-}
-
 h1 {
+  line-height:1.1;
   font-size:48px;    
   font-weight: 200;
   text-align: center;
 }
 
 h2 {
-  color:#393939;
+  /*color:#393939;*/
+  font-size:14px;   
+  font-weight: 200;
+}
+
+h4 {
+  /*color:#393939;*/
+  font-size: 18px;   
+  font-weight: 200;
 }
 
 h3, h4, h5, h6 {
