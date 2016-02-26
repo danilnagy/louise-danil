@@ -227,6 +227,24 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+@media screen and (max-width: 48rem) {
+    .site-header {
+        .site-title,
+        .site-nav {
+            text-align: center;
+        }
+    }
+    .site-footer {
+        text-align: center;
+    }
+    
+    h1 {
+        font-size: 38px;
+    }
+
+}
+
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
